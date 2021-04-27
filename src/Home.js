@@ -18,7 +18,6 @@ class Home extends Component {
     return (
       <div style={{backgroundColor: "lightblue", width: "100%", height: "1000px", padding: "100px"}}>
       <Form myHeader={this.state.header}/>
-
       </div>
     );
   }
