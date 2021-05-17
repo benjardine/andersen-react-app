@@ -19,7 +19,6 @@ class Form extends Component {
     });
     console.log(date)
   }
-
   render() {
     return (
       <>
